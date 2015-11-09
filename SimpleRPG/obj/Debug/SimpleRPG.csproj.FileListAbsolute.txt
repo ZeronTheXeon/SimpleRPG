@@ -1,0 +1,11 @@
+C:\Users\Eric\Documents\GitHub\SimpleRPG\SimpleRPG\bin\Debug\SimpleRPG.exe.config
+C:\Users\Eric\Documents\GitHub\SimpleRPG\SimpleRPG\bin\Debug\SimpleRPG.exe
+C:\Users\Eric\Documents\GitHub\SimpleRPG\SimpleRPG\bin\Debug\SimpleRPG.pdb
+C:\Users\Eric\Documents\GitHub\SimpleRPG\SimpleRPG\bin\Debug\Engine.dll
+C:\Users\Eric\Documents\GitHub\SimpleRPG\SimpleRPG\bin\Debug\Engine.pdb
+C:\Users\Eric\Documents\GitHub\SimpleRPG\SimpleRPG\obj\Debug\SimpleRPG.csprojResolveAssemblyReference.cache
+C:\Users\Eric\Documents\GitHub\SimpleRPG\SimpleRPG\obj\Debug\SimpleRPG.Properties.Resources.resources
+C:\Users\Eric\Documents\GitHub\SimpleRPG\SimpleRPG\obj\Debug\SimpleRPG.csproj.GenerateResource.Cache
+C:\Users\Eric\Documents\GitHub\SimpleRPG\SimpleRPG\obj\Debug\SimpleRPG.exe
+C:\Users\Eric\Documents\GitHub\SimpleRPG\SimpleRPG\obj\Debug\SimpleRPG.pdb
+C:\Users\Eric\Documents\GitHub\SimpleRPG\SimpleRPG\obj\Debug\SimpleRPG.SimpleRPG.resources

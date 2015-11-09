@@ -1,0 +1,16 @@
+Player
+	You/health/mana/stats/looks
+Location
+	A Place
+Equipment
+	Gear/weapons/armor
+Inventory
+	Bag
+Monsters
+	Baddies/drops
+NPC?
+	People you wanna steal from
+Potion
+	The drugs that make you strong even tho u never drank it before
+Cash money
+	obtained from: quests/monsters/stealing from NPCs

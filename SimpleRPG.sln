@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleRPG", "SimpleRPG\SimpleRPG.csproj", "{A68E45D8-097F-47FA-B89B-690F3374525E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Engine", "Engine\Engine.csproj", "{81345950-9B71-4BB2-A75B-1B421DD1174A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A68E45D8-097F-47FA-B89B-690F3374525E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A68E45D8-097F-47FA-B89B-690F3374525E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A68E45D8-097F-47FA-B89B-690F3374525E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A68E45D8-097F-47FA-B89B-690F3374525E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81345950-9B71-4BB2-A75B-1B421DD1174A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81345950-9B71-4BB2-A75B-1B421DD1174A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81345950-9B71-4BB2-A75B-1B421DD1174A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81345950-9B71-4BB2-A75B-1B421DD1174A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
