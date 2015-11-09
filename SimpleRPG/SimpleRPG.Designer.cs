@@ -138,6 +138,7 @@
             this.Controls.Add(this.Health);
             this.Name = "SimpleRPG";
             this.Text = "Game";
+            this.Load += new System.EventHandler(this.SimpleRPG_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
